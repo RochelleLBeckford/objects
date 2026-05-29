@@ -1,6 +1,6 @@
 # objects
 <!-- & This creates a banner for the ReadMe -->
-<img src="img/cherry-blossom-princess.png" alt="Cherry Blossom Princess" width="100%" height="350">
+<img src="img/cherry-blossom-princess.png" alt="Cherry Blossom Princess" width="100%" height="400">
 
 # <p align="center">🌸 Function: JavaScript's Treasure Chest of Data 🌸</p>
 
